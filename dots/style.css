@@ -140,7 +140,7 @@ label:hover {
 
 #progress-bar-container {
     width: 60%; /* 设置进度条容器的宽度 */
-    height: 5px; /* 设置进度条容器的高度 */
+    height: 8px; /* 设置进度条容器的高度 */
     background-color: #ddd; /* 设置进度条容器的背景色 */
     margin-top: 20px; /* 设置进度条容器与其他元素的间距 */
     border-radius: 5px; /* 设置进度条容器的圆角 */
